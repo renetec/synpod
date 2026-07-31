@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Briefing syndical</title>
+    <link>https://renetec.github.io/synpod/</link>
+    <atom:link href="https://renetec.github.io/synpod/podcast.xml" rel="self" type="application/rss+xml"/>
+    <description>Le briefing quotidien des actualités syndicales québécoises : négociations, grèves et moyens de pression, maraudage, décisions du TAT et nouvelles des centrales (FTQ, CSN, CSQ, SCFP, Métallos, TUAC, Teamsters et plus). Généré chaque matin à 7 h 30.</description>
+    <language>fr-ca</language>
+    <itunes:author>Ren</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://renetec.github.io/synpod/cover.png"/>
+    <itunes:category text="News"/>
+    <image>
+      <url>https://renetec.github.io/synpod/cover.png</url>
+      <title>Briefing syndical</title>
+      <link>https://renetec.github.io/synpod/</link>
+    </image>
+    <!-- EPISODES -->
+    <item>
+      <title>Briefing syndical — vendredi 31 juillet 2026</title>
+      <description>À la une : préavis de grève chez WestJet (SCFP 8125) et grève possible dès le 2 août; nouvelle convention de six ans pour les croupiers du Casino de Montréal; les Métallos et l'AIMTA interpellent Washington sur les tarifs. Aussi : surveillance en milieu de travail, Santé Québec, Siemens en lock-out, congrès des TUAC à Calgary.</description>
+      <pubDate>Fri, 31 Jul 2026 07:30:00 -0400</pubDate>
+      <enclosure url="https://renetec.github.io/synpod/episodes/briefing-2026-07-31.mp3" length="1857663" type="audio/mpeg"/>
+      <guid isPermaLink="false">synpod-2026-07-31</guid>
+      <itunes:duration>232</itunes:duration>
+    </item>
+  </channel>
+</rss>
