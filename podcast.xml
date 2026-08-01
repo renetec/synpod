@@ -17,6 +17,14 @@
     </image>
     <!-- EPISODES -->
     <item>
+      <title>Briefing syndical — samedi 1er août 2026</title>
+      <description>Préavis de grève chez WestJet avec riposte de lock-out, entente de principe pour les paramédics CSN, riposte des Métallos aux tarifs de Trump et solidarité pour les lockoutés de Siemens à Trois-Rivières.</description>
+      <pubDate>Sat, 01 Aug 2026 07:30:00 -0400</pubDate>
+      <enclosure url="https://renetec.github.io/synpod/episodes/briefing-2026-08-01.mp3" length="5310842" type="audio/mpeg"/>
+      <guid isPermaLink="false">synpod-2026-08-01</guid>
+      <itunes:duration>663</itunes:duration>
+    </item>
+    <item>
       <title>Briefing syndical — vendredi 31 juillet 2026</title>
       <description>À la une : préavis de grève chez WestJet (SCFP 8125) et grève possible dès le 2 août; nouvelle convention de six ans pour les croupiers du Casino de Montréal; les Métallos et l'AIMTA interpellent Washington sur les tarifs. Aussi : surveillance en milieu de travail, Santé Québec, Siemens en lock-out, congrès des TUAC à Calgary.</description>
       <pubDate>Fri, 31 Jul 2026 07:30:00 -0400</pubDate>
