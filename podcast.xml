@@ -17,6 +17,14 @@
     </image>
     <!-- EPISODES -->
     <item>
+      <title>Briefing syndical — dimanche 2 août 2026</title>
+      <description>Grève des ingénieurs de l&#x27;État : négos rompues, 127 chantiers touchés. Entente de principe pour 3 500 paramédics CSN, blocage sur la retraite à la FPHQ. Plainte à l&#x27;OIT contre la Loi 4, et moisson d&#x27;ententes au SCFP.</description>
+      <pubDate>Sun, 02 Aug 2026 07:30:00 -0400</pubDate>
+      <enclosure url="https://renetec.github.io/synpod/episodes/briefing-2026-08-02.mp3" length="3254692" type="audio/mpeg"/>
+      <guid isPermaLink="false">synpod-2026-08-02</guid>
+      <itunes:duration>406</itunes:duration>
+    </item>
+    <item>
       <title>Briefing syndical — samedi 1er août 2026</title>
       <description>Préavis de grève chez WestJet avec riposte de lock-out, entente de principe pour les paramédics CSN, riposte des Métallos aux tarifs de Trump et solidarité pour les lockoutés de Siemens à Trois-Rivières.</description>
       <pubDate>Sat, 01 Aug 2026 07:30:00 -0400</pubDate>
