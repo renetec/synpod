@@ -17,6 +17,14 @@
     </image>
     <!-- EPISODES -->
     <item>
+      <title>Briefing syndical — lundi 3 août 2026</title>
+      <description>Grève générale illimitée chez ArcelorMittal à Contrecoeur (Métallos), grève des 4 400 agents de bord de WestJet (SCFP), entente de principe pour les 3 500 paramédics CSN, et impasse persistante dans la grève des ingénieurs de l&#x27;État (APIGQ).</description>
+      <pubDate>Mon, 03 Aug 2026 07:30:00 -0400</pubDate>
+      <enclosure url="https://renetec.github.io/synpod/episodes/briefing-2026-08-03.mp3" length="3650708" type="audio/mpeg"/>
+      <guid isPermaLink="false">synpod-2026-08-03</guid>
+      <itunes:duration>456</itunes:duration>
+    </item>
+    <item>
       <title>Briefing syndical — dimanche 2 août 2026</title>
       <description>Grève des ingénieurs de l&#x27;État : négos rompues, 127 chantiers touchés. Entente de principe pour 3 500 paramédics CSN, blocage sur la retraite à la FPHQ. Plainte à l&#x27;OIT contre la Loi 4, et moisson d&#x27;ententes au SCFP.</description>
       <pubDate>Sun, 02 Aug 2026 07:30:00 -0400</pubDate>
