@@ -17,6 +17,14 @@
     </image>
     <!-- EPISODES -->
     <item>
+      <title>Briefing syndical — mercredi 5 août 2026</title>
+      <description>Grève illimitée chez ArcelorMittal Contrecoeur (Métallos); entente de principe chez WestJet (SCFP); Béton Provincial reconnue coupable d&#x27;entrave; entente pour 3500 paramédics CSN; la grève des ingénieurs de l&#x27;État se poursuit.</description>
+      <pubDate>Wed, 05 Aug 2026 07:30:00 -0400</pubDate>
+      <enclosure url="https://renetec.github.io/synpod/episodes/briefing-2026-08-05.mp3" length="3060550" type="audio/mpeg"/>
+      <guid isPermaLink="false">synpod-2026-08-05</guid>
+      <itunes:duration>382</itunes:duration>
+    </item>
+    <item>
       <title>Briefing syndical — mardi 4 août 2026</title>
       <description>Grève illimitée des Métallos chez ArcelorMittal à Contrecoeur, entente de principe éclair chez WestJet après la grève des agents de bord SCFP, Béton Provincial reconnue coupable d&#x27;entrave syndicale par le TAT, et la grève se poursuit au IGA Coop l&#x27;Unité des Îles-de-la-Madeleine.</description>
       <pubDate>Tue, 04 Aug 2026 07:30:00 -0400</pubDate>
