@@ -17,6 +17,14 @@
     </image>
     <!-- EPISODES -->
     <item>
+      <title>Briefing syndical — vendredi 7 août 2026</title>
+      <description>Grève illimitée chez ArcelorMittal à Contrecoeur, les ingénieurs de l&#x27;État dressent la liste des projets à risque, convention record dans la sécurité privée (Métallos), Béton Provincial reconnue coupable d&#x27;entrave syndicale par le TAT, et du mouvement sur trois fronts dans le préhospitalier.</description>
+      <pubDate>Fri, 07 Aug 2026 07:30:00 -0400</pubDate>
+      <enclosure url="https://renetec.github.io/synpod/episodes/briefing-2026-08-07.mp3" length="5878848" type="audio/mpeg"/>
+      <guid isPermaLink="false">synpod-2026-08-07</guid>
+      <itunes:duration>734</itunes:duration>
+    </item>
+    <item>
       <title>Briefing syndical — jeudi 6 août 2026</title>
       <description>Grève chez ArcelorMittal Contrecoeur, entente de principe pour les agents de bord de WestJet, ratification majeure dans la sécurité privée (Métallos), le TAT blâme Béton Provincial et les grèves d&#x27;épicerie se poursuivent aux Îles-de-la-Madeleine.</description>
       <pubDate>Thu, 06 Aug 2026 07:30:00 -0400</pubDate>
