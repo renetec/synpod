@@ -17,6 +17,14 @@
     </image>
     <!-- EPISODES -->
     <item>
+      <title>Briefing syndical — mercredi 12 août 2026</title>
+      <description>Les paramédics de la FTPQ rejettent l&#x27;offre patronale à 92 %; les grèves se poursuivent chez les ingénieurs de l&#x27;État et chez ArcelorMittal Contrecoeur; vague de règlements chez les TUAC et au SCFP.</description>
+      <pubDate>Wed, 12 Aug 2026 07:30:00 -0400</pubDate>
+      <enclosure url="https://renetec.github.io/synpod/episodes/briefing-2026-08-12.mp3" length="3185519" type="audio/mpeg"/>
+      <guid isPermaLink="false">synpod-2026-08-12</guid>
+      <itunes:duration>398</itunes:duration>
+    </item>
+    <item>
       <title>Briefing syndical — mardi 11 août 2026</title>
       <description>Grève générale illimitée chez ArcelorMittal Contrecoeur, victoire de la CSN au TAT contre Béton Provincial, deuxième semaine de grève aux IGA des Îles-de-la-Madeleine, et ratification majeure des 12 500 agents de sécurité privée des Métallos.</description>
       <pubDate>Tue, 11 Aug 2026 07:30:00 -0400</pubDate>
