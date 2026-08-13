@@ -17,6 +17,14 @@
     </image>
     <!-- EPISODES -->
     <item>
+      <title>Briefing syndical — jeudi 13 août 2026</title>
+      <description>Grève des ingénieurs de l&#x27;État : 150 chantiers touchés; les paramédics de la FTPQ rejettent l&#x27;offre à 92 %; Metro encaisse 66 M$ de pertes liées à la grève; la CSN lance ses demandes électorales en éducation; lock-out et briseurs de grève chez Béton Provincial.</description>
+      <pubDate>Thu, 13 Aug 2026 07:30:00 -0400</pubDate>
+      <enclosure url="https://renetec.github.io/synpod/episodes/briefing-2026-08-13.mp3" length="3880377" type="audio/mpeg"/>
+      <guid isPermaLink="false">synpod-2026-08-13</guid>
+      <itunes:duration>485</itunes:duration>
+    </item>
+    <item>
       <title>Briefing syndical — mercredi 12 août 2026</title>
       <description>Les paramédics de la FTPQ rejettent l&#x27;offre patronale à 92 %; les grèves se poursuivent chez les ingénieurs de l&#x27;État et chez ArcelorMittal Contrecoeur; vague de règlements chez les TUAC et au SCFP.</description>
       <pubDate>Wed, 12 Aug 2026 07:30:00 -0400</pubDate>
