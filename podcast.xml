@@ -17,6 +17,14 @@
     </image>
     <!-- EPISODES -->
     <item>
+      <title>Briefing syndical — dimanche 16 août 2026</title>
+      <description>Le sort de l&#x27;entente des paramédics se joue aujourd&#x27;hui après le rejet chez Urgences-santé; grève illimitée chez ArcelorMittal à Contrecoeur; les grévistes du IGA des Îles rejettent l&#x27;arbitrage à 96 %; Béton Provincial épinglé pour briseurs de grève; menace de grève au parc Jean-Drapeau.</description>
+      <pubDate>Sun, 16 Aug 2026 07:30:00 -0400</pubDate>
+      <enclosure url="https://renetec.github.io/synpod/episodes/briefing-2026-08-16.mp3" length="5407808" type="audio/mpeg"/>
+      <guid isPermaLink="false">synpod-2026-08-16</guid>
+      <itunes:duration>675</itunes:duration>
+    </item>
+    <item>
       <title>Briefing syndical — samedi 15 août 2026</title>
       <description>Paramédics : double rejet des offres (Urgences-santé et FTPQ) ; la grève des ingénieurs de l&#x27;État paralyse 150 chantiers ; Metro encaisse une perte de 66 M$ liée au conflit ; menace de grève au parc Jean-Drapeau ; ententes chez les TUAC, les Métallos et la Coopérative funéraire des Deux Rives.</description>
       <pubDate>Sat, 15 Aug 2026 07:30:00 -0400</pubDate>
