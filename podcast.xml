@@ -17,6 +17,15 @@
     </image>
     <!-- EPISODES -->
     <item>
+      <title>Briefing syndical — lundi 28 septembre 2026</title>
+      <description># Briefing matinal des actualités syndicales québécoises
+**Lundi 28 septembre 2026**</description>
+      <pubDate>Mon, 28 Sep 2026 04:00:00 -0400</pubDate>
+      <enclosure url="https://renetec.github.io/synpod/episodes/briefing-2026-09-28.mp3" length="5163291" type="audio/mpeg"/>
+      <guid isPermaLink="false">synpod-2026-09-28</guid>
+      <itunes:duration>645</itunes:duration>
+    </item>
+    <item>
       <title>Briefing syndical — dimanche 27 septembre 2026</title>
       <description># Briefing syndical québécois — Dimanche 27 septembre 2026</description>
       <pubDate>Sun, 27 Sep 2026 04:00:00 -0400</pubDate>
