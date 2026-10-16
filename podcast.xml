@@ -17,6 +17,15 @@
     </image>
     <!-- EPISODES -->
     <item>
+      <title>Briefing syndical — vendredi 16 octobre 2026</title>
+      <description># Briefing matinal des actualités syndicales québécoises
+**Vendredi 16 octobre 2026**</description>
+      <pubDate>Fri, 16 Oct 2026 04:00:00 -0400</pubDate>
+      <enclosure url="https://renetec.github.io/synpod/episodes/briefing-2026-10-16.mp3" length="5298459" type="audio/mpeg"/>
+      <guid isPermaLink="false">synpod-2026-10-16</guid>
+      <itunes:duration>662</itunes:duration>
+    </item>
+    <item>
       <title>Briefing syndical — jeudi 15 octobre 2026</title>
       <description># Briefing matinal des actualités syndicales québécoises
 **Jeudi 15 octobre 2026**</description>
