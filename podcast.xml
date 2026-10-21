@@ -17,6 +17,14 @@
     </image>
     <!-- EPISODES -->
     <item>
+      <title>Briefing syndical — mercredi 21 octobre 2026</title>
+      <description># Briefing syndical québécois — Mercredi 21 octobre 2026</description>
+      <pubDate>Wed, 21 Oct 2026 04:00:00 -0400</pubDate>
+      <enclosure url="https://renetec.github.io/synpod/episodes/briefing-2026-10-21.mp3" length="4616091" type="audio/mpeg"/>
+      <guid isPermaLink="false">synpod-2026-10-21</guid>
+      <itunes:duration>577</itunes:duration>
+    </item>
+    <item>
       <title>Briefing syndical — mardi 20 octobre 2026</title>
       <description># Briefing syndical québécois — Mardi 20 octobre 2026</description>
       <pubDate>Tue, 20 Oct 2026 04:00:00 -0400</pubDate>
