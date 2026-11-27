@@ -17,6 +17,14 @@
     </image>
     <!-- EPISODES -->
     <item>
+      <title>Briefing syndical — vendredi 27 novembre 2026</title>
+      <description># Briefing syndical québécois – Vendredi 27 novembre 2026</description>
+      <pubDate>Fri, 27 Nov 2026 04:00:00 -0400</pubDate>
+      <enclosure url="https://renetec.github.io/synpod/episodes/briefing-2026-11-27.mp3" length="6306459" type="audio/mpeg"/>
+      <guid isPermaLink="false">synpod-2026-11-27</guid>
+      <itunes:duration>788</itunes:duration>
+    </item>
+    <item>
       <title>Briefing syndical — jeudi 26 novembre 2026</title>
       <description># Briefing matinal de l&#x27;actualité syndicale québécoise
 **Jeudi 26 novembre 2026**</description>
